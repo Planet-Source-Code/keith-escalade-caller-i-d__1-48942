@@ -1,0 +1,3 @@
+Baller I.D.
+
+Form may not load because you dont have the text-to-speech files. http://www.microsoft.com/msagent/downloads/user.asp#tts. Please report bugs to keith_escalade@yahoo.com. Feel free to modify, change, or do anything you want to with this source, just give me credit for what you use. Thanks
